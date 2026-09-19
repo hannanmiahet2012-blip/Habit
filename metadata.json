@@ -1,0 +1,7 @@
+{
+  "name": "Habit Tracker",
+  "description": "Track daily habits, streaks, and monthly growth with progress visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
